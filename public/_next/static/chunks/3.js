@@ -29,7 +29,7 @@ function Footer() {
               className: "col-sm-4",
               children: /*#__PURE__*/Object(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__["jsx"])("p", {
                 className: "mb-0 pb-0 contact-number",
-                children: "Corporate office: +91 7904521453"
+                children: "Corporate office: +91 7550031036"
               })
             }), /*#__PURE__*/Object(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__["jsx"])("div", {
               className: "col-sm-8 text-right",
